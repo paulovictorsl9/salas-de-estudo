@@ -18,7 +18,7 @@ cd StudyBud
 
 ```
 
---> Criar o ambiente virtual :
+### Criar o ambiente virtual :
 ```bash
 # Instalar o virtualenv com o comando :
 pip install virtualenv
@@ -28,13 +28,13 @@ virtualenv envname
 
 ```
 
---> Ativar o ambiente virtual :
+### Ativar o ambiente virtual :
 ```bash
 envname\scripts\activate
 
 ```
 
---> Instalar os requirementos :
+### Instalar os requerimentos :
 ```bash
 pip install -r requirements.txt
 
